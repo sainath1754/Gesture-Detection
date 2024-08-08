@@ -1,4 +1,3 @@
-Here is a README.md file generated based on the provided data:
 
 # Hand Gesture Recognition and Detection
 
